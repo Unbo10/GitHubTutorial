@@ -1,1 +1,6 @@
+#* Local files to ignore
+
 GitHubTutorialExample/
+
+#* Virtual environments
+.venv/
